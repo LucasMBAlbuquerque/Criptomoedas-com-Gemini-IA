@@ -58,7 +58,7 @@ class Crypto(commands.Cog):
                     'convert':f'{base}'
                 }
             
-            TOKENCMK = config("X-CMC_PRO_API_KEY")
+            TOKENCMK = config("CMK")
             headers ={
                 'Accepts':'application/json',
                 'X-CMC_PRO_API_KEY':TOKENCMK

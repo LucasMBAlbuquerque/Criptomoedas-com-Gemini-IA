@@ -21,10 +21,11 @@ Em resumo o projeto busca:
 
 1. Adicione o CryptoBot ao seu servidor Discord.
 2. Utilize o comando `!preco <criptomoeda>` para consultar informações sobre a moeda desejada (ex: `!preco Bitcoin`). Utilize `!preco bitcoin real` caso queira o preço em Real.
+3. Para o bot funcionar é necessário 3 Tokens: TOKEN_GEMINI (API do Google Gemini AI), TOKEN_DISC (Token do seu bot do discord) e CMK (API do CoinMarketCap).
 
 ![Exemplo](exemplo1.png)
 
-![Exemplo em Real](exemplo3.png)
+![Exemplo em Real](exemplo2.png)
 
 ## Tecnologia:
 
