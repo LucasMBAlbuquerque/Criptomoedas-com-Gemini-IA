@@ -2,6 +2,14 @@
 
 ## CryptoBot é um bot Discord que fornece informações em tempo real sobre criptomoedas, utilizando a inteligência do Gemini AI.
 
+## Motivação:
+
+A motivação principal para realizar este projeto foi que,  Apesar de suas capacidades avançadas, o Gemini AI ainda não possui acesso direto a dados de mercado de criptoativo. Visando suprir essa lacuna, este projeto utiliza uma API de criptomoedas para obter os dados mais recentes e os fornece ao Gemini AI. O resultado é um bot para Discord que entrega, de forma concisa e compreensível, as informações desejadas sobre a criptomoeda escolhida pelo usuário.
+
+Em resumo o projeto busca:
+
+- **Expandir as capacidades do Gemini AI:** integrando-o com dados de mercado em tempo real;
+- **Criar uma ferramenta útil para a comunidade:** um bot Discord que simplifica o acesso a informações sobre criptomoedas.
 ## Funcionalidades:
 
 - **Preços em Tempo Real:** Consulte os preços atuais de diversas criptomoedas diretamente no seu servidor Discord.
