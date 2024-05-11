@@ -1,0 +1,5 @@
+discord.py==1.7.3
+requests
+python-decouple==3.5
+nest-asyncio
+google-generativeai
